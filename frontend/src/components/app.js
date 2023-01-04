@@ -13,7 +13,6 @@ import EditProfileContainer from './profile/edit_profile_container';
 import AboutFooter from './about_footer/about_footer';
 
 
-
 const App = () => (
   <div>
     <NavBarContainer />
